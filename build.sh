@@ -4,7 +4,7 @@ set -e -u
 
 iso_name=silicon-linux
 iso_label="SILICON_$(date +%Y%m)"
-iso_publisher="Andrew Lee"
+iso_publisher="Silicon Linux Community"
 iso_application="Silicon Linux Live"
 iso_version=$(date +%Y.%m.%d)
 install_dir=arch
