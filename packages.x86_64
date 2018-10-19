@@ -1,3 +1,20 @@
+
+# Video Drivers
+xf86-video-intel
+virtualbox-guest-utils
+virtualbox-guest-dkms
+xorg-xinit
+xorg-xserver
+
+# Basic packages
+xfce4
+xfce4-whiskermenu-plugin
+lxdm
+gnome-screensaver
+mousepad
+firefox
+links
+
 # Base Install
 arch-install-scripts
 b43-fwcutter
@@ -30,7 +47,6 @@ irssi
 lftp
 linux
 linux-headers
-linux-atm
 lsscsi
 mc
 mtools
@@ -66,18 +82,3 @@ wireless_tools
 wpa_actiond
 wvdial
 xl2tpd
-
-# Video Drivers
-xf86-video-intel
-virtualbox-guest-utils
-xorg-xinit
-
-# Basic packages
-xfce4
-xfce4-whiskermenu-plugin
-lxdm
-gnome-screensaver
-mousepad
-firefox
-yay
-
