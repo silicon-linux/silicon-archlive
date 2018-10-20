@@ -1,17 +1,18 @@
 
-# Video Drivers
+# Basic packages
 xf86-video-intel
 virtualbox-guest-utils
 virtualbox-guest-dkms
 xorg-xinit
-
-# Basic packages
+qt
 xfce4
 xfce4-whiskermenu-plugin
 lxdm
 gnome-screensaver
 mousepad
 firefox
+networkmanager
+xdg-user-dirs
 links
 
 # Base Install
