@@ -4,7 +4,6 @@ xf86-video-intel
 virtualbox-guest-utils
 virtualbox-guest-dkms
 xorg-xinit
-xorg-xserver
 
 # Basic packages
 xfce4
@@ -45,7 +44,6 @@ ipw2100-fw
 ipw2200-fw
 irssi
 lftp
-linux
 linux-headers
 lsscsi
 mc
