@@ -5,8 +5,7 @@ virtualbox-guest-utils
 virtualbox-guest-dkms
 xorg-xinit
 qt
-xfce4
-xfce4-whiskermenu-plugin
+lxde
 lxdm
 gnome-screensaver
 mousepad
